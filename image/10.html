@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="assets/icon/favicon.ico">
+  <title>Mapillary</title>
+  <meta name="description" content="Mapillary is the street-level imagery platform that scales and automates mapping using collaboration, cameras, and computer vision.">
+  <meta name="og:title" content="Mapillary">
+  <meta name="og:description" content="Mapillary is the street-level imagery platform that scales and automates mapping using collaboration, cameras, and computer vision.">
+  <meta name="og:image" content="https://scontent-nrt1-1.xx.fbcdn.net/m1/v/t6/An_x0w78HBtR9MAGHB-ZtHNasbuNhZh2in6TFNVLLESD1_W-I9TcM1x3pts_1vNU94gaX-egx64dLZ39pAUuYMbjtddbTbZHmJMgLrkZ1HrRK49q61KTLVRT9lQKpYB6xnhZJ-Ozy4cToLm_ngS1gg?stp=s1024x768&ccb=10-5&oh=00_AfAJfNbcSeenNMf0LYLsdASyhBeAN8104CpiegE_D46oSA&oe=64084118&_nc_sid=122ab1">
+
+  <meta name="twitter:card" content="summary_large_image"/>
+  <meta name="twitter:site" content="@mapillary"/>
+  <meta name="twitter:title" content="Mapillary"/>
+  <meta name="twitter:description" content="Mapillary is the street-level imagery platform that scales and automates mapping using collaboration, cameras, and computer vision."/>
+  <meta name="twitter:image" content="https://scontent-nrt1-1.xx.fbcdn.net/m1/v/t6/An_x0w78HBtR9MAGHB-ZtHNasbuNhZh2in6TFNVLLESD1_W-I9TcM1x3pts_1vNU94gaX-egx64dLZ39pAUuYMbjtddbTbZHmJMgLrkZ1HrRK49q61KTLVRT9lQKpYB6xnhZJ-Ozy4cToLm_ngS1gg?stp=s1024x768&ccb=10-5&oh=00_AfAJfNbcSeenNMf0LYLsdASyhBeAN8104CpiegE_D46oSA&oe=64084118&_nc_sid=122ab1"/>
+
+  <base href="/app/">
+<link rel="stylesheet" href="/app/styles.bc0cb53a9e37ad69bcb5.css"></head>
+<body>
+  <div class="LoadingBackground">
+    <div>
+      <div class="LoadingLogo"></div>
+      <script type="text/javascript">
+        const img = new Image();
+        img.src = 'https://www.mapillary.com/main/assets/icon/favicon.ico';
+        img.onerror = () => {
+            const isFirefoxBrowser = navigator.userAgent.includes('Firefox');
+            if (isFirefoxBrowser) {
+              const logoDiv = document.getElementsByClassName('LoadingLogo')[0];
+              const div = document.createElement('div');
+              div.style.textAlign = 'center';
+              div.style.width = '600px';
+              div.style.marginLeft = '-200px';
+              div.style.color = '#000';
+
+              div.innerText = `
+                Enhanced Tracking Protection setting might be ON, which would block Mapillary from loading.
+                You can turn it OFF for this website only by clicking on the shield icon to the left of the browser url.
+              `;
+              logoDiv.appendChild(div);
+            }
+        };
+      </script>
+      <div class="ProgressBarOutline">
+        <div class="InnerOutline">
+          <div id="ProgressBar" class="ProgressBar"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <main-root></main-root>
+<script src="/app/runtime.d395d2b7aa76c3318463.js" defer></script><script src="/app/polyfills.6cc4a8b534c15faf0e33.js" defer></script><script src="/app/main.9f9590bc51d692ec472f.js" defer></script></body>
+</html>
