@@ -180,7 +180,7 @@ var config = {
       hidden: false,
       title:
         "赤レンガ造りの建物が見えてきます。その手前に門があるのでそこから東大に入ることができます。",
-      image: "https://shogohirasawa.github.io/hongoST2Toudai/image/9.jpeg",
+      image: "https://shogohirasawa.github.io/hongoST2Toudai/image/10.jpeg",
       location: {
         center: [139.7602, 35.7098],
         zoom: 19.28,
