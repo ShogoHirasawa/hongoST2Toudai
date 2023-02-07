@@ -24,6 +24,7 @@ var config = {
         pitch: 50.37,
         bearing: 25.99,
       },
+
       mapAnimation: "flyTo",
       rotateAnimation: true,
       callback: "",
@@ -179,7 +180,7 @@ var config = {
       alignment: "left",
       hidden: false,
       title:
-        "赤レンガ造りの建物が見えてきます。その手前に門があるのでそこから東大に入ることができます。",
+        "赤レンガ造りの建物が見えてきます。その手前に門があるのでそこから入校できます。",
       image: "https://shogohirasawa.github.io/hongoST2Toudai/image/10.jpg",
       location: {
         center: [139.7602, 35.7098],
