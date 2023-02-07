@@ -127,7 +127,7 @@ var config = {
       title: "進行方向右側の横断歩道を渡る",
       image: "https://shogohirasawa.github.io/hongoST2Toudai/image/7.jpeg",
       location: {
-        center: [139.76057, 35.70774],
+        center: [139.76055, 35.70765],
         zoom: 18.97,
         pitch: 59.2,
         bearing: 42,
@@ -145,7 +145,7 @@ var config = {
       title: "横断歩道を渡った後、左方向に直進",
       image: "https://shogohirasawa.github.io/hongoST2Toudai/image/8.jpeg",
       location: {
-        center: [139.76056, 35.70781],
+        center: [139.76055, 35.70765],
         zoom: 18.97,
         pitch: 44,
         bearing: -7.2,
@@ -163,7 +163,7 @@ var config = {
       title: "右手にスターバックスが見えるのでそのまま直進",
       image: "https://shogohirasawa.github.io/hongoST2Toudai/image/9.jpeg",
       location: {
-        center: [139.76052, 35.70808 ],
+        center: [139.76047, 35.70809],
         zoom: 18.57,
         pitch: 33,
         bearing: 0,
@@ -180,7 +180,7 @@ var config = {
       hidden: false,
       title:
         "赤レンガ造りの建物が見えてきます。その手前に門があるのでそこから東大に入ることができます。",
-      image: "https://shogohirasawa.github.io/hongoST2Toudai/image/10.jpeg",
+      image: "https://shogohirasawa.github.io/hongoST2Toudai/image/10.jpg",
       location: {
         center: [139.7602, 35.7098],
         zoom: 19.28,
