@@ -55,7 +55,7 @@ var config = {
       title: "そのまま直進",
       image: "https://shogohirasawa.github.io/hongoST2Toudai/image/3.jpeg",
       location: {
-        center: [139.7607, 35.707],
+        center: [139.76069, 35.70686],
         zoom: 18.18,
         pitch: 74,
         bearing: 0,
@@ -91,7 +91,7 @@ var config = {
       title: "横断歩道を渡って交番前に行く",
       image: "https://shogohirasawa.github.io/hongoST2Toudai/image/5.jpeg",
       location: {
-        center: [139.760467, 35.7075834],
+        center: [139.76041, 35.70763],
         zoom: 19.56,
         pitch: 54,
         bearing: -26.4,
@@ -109,7 +109,7 @@ var config = {
       title: "交番前に到着",
       image: "https://shogohirasawa.github.io/hongoST2Toudai/image/6.jpeg",
       location: {
-        center: [139.760467, 35.7075834],
+        center: [139.76041, 35.70763],
         zoom: 19.56,
         pitch: 54,
         bearing: -26.4,
@@ -127,7 +127,7 @@ var config = {
       title: "進行方向右側の横断歩道を渡る",
       image: "https://shogohirasawa.github.io/hongoST2Toudai/image/7.jpeg",
       location: {
-        center: [139.7606, 35.7076],
+        center: [139.76057, 35.70774],
         zoom: 18.97,
         pitch: 59.2,
         bearing: 42,
@@ -145,7 +145,7 @@ var config = {
       title: "横断歩道を渡った後、左方向に直進",
       image: "https://shogohirasawa.github.io/hongoST2Toudai/image/8.jpeg",
       location: {
-        center: [139.7606, 35.7078],
+        center: [139.76056, 35.70781],
         zoom: 18.97,
         pitch: 44,
         bearing: -7.2,
@@ -163,7 +163,7 @@ var config = {
       title: "右手にスターバックスが見えるのでそのまま直進",
       image: "https://shogohirasawa.github.io/hongoST2Toudai/image/9.jpeg",
       location: {
-        center: [139.7605, 35.7081],
+        center: [139.76052, 35.70808 ],
         zoom: 18.57,
         pitch: 33,
         bearing: 0,
